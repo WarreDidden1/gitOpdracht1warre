@@ -1,1 +1,1 @@
-dit is de readme bestand
+dit is het readme bestand
